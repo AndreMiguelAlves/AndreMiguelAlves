@@ -1,4 +1,4 @@
-##  HEY! My name is André Alves, I am from Portugal!
+##  HEY! My name is André Alves from Portugal!
 I am a self-taught front-end developer from Portugal, enthusiastic about creating user-friendly, visually appealing and accessible websites that deliver an exceptional user experience. 
 
 I consider myself a fast learner, and I am highly motivated to continue developing my skills.
